@@ -1,19 +1,17 @@
-# opinio
+# OPINIO
 
 A new Flutter project.
 
-## Getting Started
+## Abstract
 
-This project is a starting point for a Flutter application.
+OPINIO is a mobile based debate application which allows users to create debate pages on their own and comment on various available debates anonymously. Users can view various debates available, comment their views, look at the statistics of votes of that topic and also look into other comments. A chatbot is provided for the users to gain knowledge basic knowledge about the topic.
 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# OPINIO" 
-"# OPINIO" 
-"# OPINIO" 
+## Technologies Used
+1. Figma for Designing
+2. Flutter/Dart framework for Front-End
+3. Firebase for Database connectivity
